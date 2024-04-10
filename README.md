@@ -1,6 +1,6 @@
 # SomeCoin
 
-## Get price of top five coins with the app powered with CoinAPI.io API.
+## Get price of top five coins with the app.
 
 iOS deployment target: 17.0
 
